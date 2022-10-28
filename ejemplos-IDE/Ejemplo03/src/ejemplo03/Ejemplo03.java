@@ -27,6 +27,15 @@ public class Ejemplo03 {
         int valor_inicial_2 = 18;
         
         // Tipo de datos Double - Decimal
+        /*
+        D O
+        A J
+        N E
+        I D
+        E A
+        L 
+        */
+        
         
         double variable3;
         double variable4 = 10.2;
@@ -45,6 +54,7 @@ public class Ejemplo03 {
         
         boolean variable9 = false;
         boolean variable10 = true;
+        // variable9 = variable10;
     }
     
 }
