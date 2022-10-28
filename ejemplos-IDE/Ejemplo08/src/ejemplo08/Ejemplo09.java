@@ -15,10 +15,10 @@ public class Ejemplo09 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // Ejemplos
-        boolean operando1 = 10 > 1;
-        boolean operando2 = 20 == 10;
-        boolean valorC = operando1 && operando2;
+        // Ejemplos  
+        boolean operando1 = 10 > 1; //true
+        boolean operando2 = 20 == 10; //false
+        boolean valorC = operando1 && operando2; //false
 
         System.out.println(valorC);
 
